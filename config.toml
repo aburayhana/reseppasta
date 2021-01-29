@@ -1,0 +1,4 @@
+baseURL = "https://reseppasta.vercel.app"
+languageCode = "en-us"
+title = "Lasagna Recipes"
+theme = "z"
